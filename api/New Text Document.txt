@@ -1,0 +1,1 @@
+192.168.1.95:8080/bems/api/new/getPortUpdate.php?device_id=100;&node=B25;&volt=1;&temp=1.2;&amp=5.32;&ir=2.2;&no_of_records=4;
